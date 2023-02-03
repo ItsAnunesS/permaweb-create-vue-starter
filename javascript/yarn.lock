@@ -2438,9 +2438,9 @@ js-yaml@^4.1.0:
   dependencies:
     argparse "^2.0.1"
 
-jsdom@^20.0.3:
-  version "20.0.3"
-  resolved "https://registry.npmjs.org/jsdom/-/jsdom-20.0.3.tgz"
+jsdom@^21.1.0:
+  version "21.1.0"
+  resolved "https://registry.yarnpkg.com/jsdom/-/jsdom-21.1.0.tgz#d56ba4a84ed478260d83bd53dc181775f2d8e6ef"
   dependencies:
     abab "^2.0.6"
     acorn "^8.8.1"
