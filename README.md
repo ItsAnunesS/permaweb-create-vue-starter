@@ -2,10 +2,6 @@
 
 This guide will provide step-by-step instructions to configure your development environment and build a permaweb Vue application.
 
-## Contributing
-
-The Create Vue Starter Kit project welcomes all contributions. Please refer to the [Contributing Guidelines](./CONTRIBUTING.md) when submitting improvements.
-
 ## Prerequisites
 
 - Basic Typescript Knowledge (Not Mandatory) - [Learn Typescript](https://www.typescriptlang.org/docs/)
@@ -225,6 +221,10 @@ A fully functional example in JavaScript or TypeScript can be found at this loca
 ## Summary
 
 This guide provides a simple step-by-step method to publish a Vue.js app on the Permaweb using Create Vue. If you need additional features Tailwind, consider exploring alternative starter kits listed in the guide to find a suitable solution for your requirements.
+
+## Contributing
+
+The Create Vue Starter Kit project welcomes all contributions. Please refer to the [Contributing Guidelines](./CONTRIBUTING.md) when submitting improvements.
 
 ### Contributors
 
