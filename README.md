@@ -225,3 +225,6 @@ A fully functional example in JavaScript or TypeScript can be found at this loca
 ## Summary
 
 This guide provides a simple step-by-step method to publish a Vue.js app on the Permaweb using Create Vue. If you need additional features Tailwind, consider exploring alternative starter kits listed in the guide to find a suitable solution for your requirements.
+
+### Contributors
+
