@@ -232,4 +232,4 @@ The Create Vue Starter Kit project welcomes all contributions. Please refer to t
   <img src="https://contrib.rocks/image?repo=ItsAnunesS/permaweb-create-vue-starter" />
 </a>
 
-Made with [contrib.rocks](https://contrib.rocks).
+Contributors made with [contrib.rocks](https://contrib.rocks).
