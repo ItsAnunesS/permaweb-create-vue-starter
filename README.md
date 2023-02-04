@@ -228,3 +228,8 @@ The Create Vue Starter Kit project welcomes all contributions. Please refer to t
 
 ### Contributors
 
+<a href="https://github.com/ItsAnunesS/permaweb-create-vue-starter/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=ItsAnunesS/permaweb-create-vue-starter" />
+</a>
+
+Made with [contrib.rocks](https://contrib.rocks).
