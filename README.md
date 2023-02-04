@@ -2,6 +2,10 @@
 
 This guide will provide step-by-step instructions to configure your development environment and build a permaweb Vue application.
 
+## Contributing
+
+The Create Vue Starter Kit project welcomes all contributions. Please refer to the [Contributing Guidelines](./CONTRIBUTING.md) when submitting improvements.
+
 ## Prerequisites
 
 - Basic Typescript Knowledge (Not Mandatory) - [Learn Typescript](https://www.typescriptlang.org/docs/)
