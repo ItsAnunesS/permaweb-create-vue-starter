@@ -884,31 +884,31 @@
   version "4.0.0"
   resolved "https://registry.npmjs.org/@vitejs/plugin-vue/-/plugin-vue-4.0.0.tgz"
 
-"@vitest/expect@0.28.3":
-  version "0.28.3"
-  resolved "https://registry.yarnpkg.com/@vitest/expect/-/expect-0.28.3.tgz#8cd570b662e709f56ba29835879890c87429a194"
+"@vitest/expect@0.28.5":
+  version "0.28.5"
+  resolved "https://registry.yarnpkg.com/@vitest/expect/-/expect-0.28.5.tgz#d5a6eccd014e9ad66fe87a20d16426a2815c0e8a"
   dependencies:
-    "@vitest/spy" "0.28.3"
-    "@vitest/utils" "0.28.3"
+    "@vitest/spy" "0.28.5"
+    "@vitest/utils" "0.28.5"
     chai "^4.3.7"
 
-"@vitest/runner@0.28.3":
-  version "0.28.3"
-  resolved "https://registry.yarnpkg.com/@vitest/runner/-/runner-0.28.3.tgz#a59bc7a1457957291b6bf1964831284768168314"
+"@vitest/runner@0.28.5":
+  version "0.28.5"
+  resolved "https://registry.yarnpkg.com/@vitest/runner/-/runner-0.28.5.tgz#4a18fe0e40b25569763f9f1f64b799d1629b3026"
   dependencies:
-    "@vitest/utils" "0.28.3"
+    "@vitest/utils" "0.28.5"
     p-limit "^4.0.0"
     pathe "^1.1.0"
 
-"@vitest/spy@0.28.3":
-  version "0.28.3"
-  resolved "https://registry.yarnpkg.com/@vitest/spy/-/spy-0.28.3.tgz#6f6f7ecdeefecb023a96e69b6083e0314ea6f04c"
+"@vitest/spy@0.28.5":
+  version "0.28.5"
+  resolved "https://registry.yarnpkg.com/@vitest/spy/-/spy-0.28.5.tgz#b69affa0786200251b9e5aac5c58bbfb1b3273c9"
   dependencies:
     tinyspy "^1.0.2"
 
-"@vitest/utils@0.28.3":
-  version "0.28.3"
-  resolved "https://registry.yarnpkg.com/@vitest/utils/-/utils-0.28.3.tgz#75c076d4fdde5c48ee5de2808c83d615fc74d4ef"
+"@vitest/utils@0.28.5":
+  version "0.28.5"
+  resolved "https://registry.yarnpkg.com/@vitest/utils/-/utils-0.28.5.tgz#7b82b528df86adfbd4a1f6a3b72c39790e81de0d"
   dependencies:
     cli-truncate "^3.1.0"
     diff "^5.1.0"
@@ -3390,9 +3390,9 @@ uuid@^8.3.2:
   version "8.3.2"
   resolved "https://registry.npmjs.org/uuid/-/uuid-8.3.2.tgz"
 
-vite-node@0.28.3:
-  version "0.28.3"
-  resolved "https://registry.yarnpkg.com/vite-node/-/vite-node-0.28.3.tgz#5d693c237d5467f167f81d158a56d3408fea899c"
+vite-node@0.28.5:
+  version "0.28.5"
+  resolved "https://registry.yarnpkg.com/vite-node/-/vite-node-0.28.5.tgz#56d0f78846ea40fddf2e28390899df52a4738006"
   dependencies:
     cac "^6.7.14"
     debug "^4.3.4"
@@ -3414,17 +3414,17 @@ vite-node@0.28.3:
   optionalDependencies:
     fsevents "~2.3.2"
 
-vitest@^0.28.3:
-  version "0.28.3"
-  resolved "https://registry.yarnpkg.com/vitest/-/vitest-0.28.3.tgz#58322a5ae64854d4cdb75451817b9fb795f9102e"
+vitest@^0.28.5:
+  version "0.28.5"
+  resolved "https://registry.yarnpkg.com/vitest/-/vitest-0.28.5.tgz#94410a8924cd7189e4f1adffa8c5cde809cbf2f9"
   dependencies:
     "@types/chai" "^4.3.4"
     "@types/chai-subset" "^1.3.3"
     "@types/node" "*"
-    "@vitest/expect" "0.28.3"
-    "@vitest/runner" "0.28.3"
-    "@vitest/spy" "0.28.3"
-    "@vitest/utils" "0.28.3"
+    "@vitest/expect" "0.28.5"
+    "@vitest/runner" "0.28.5"
+    "@vitest/spy" "0.28.5"
+    "@vitest/utils" "0.28.5"
     acorn "^8.8.1"
     acorn-walk "^8.2.0"
     cac "^6.7.14"
@@ -3440,7 +3440,7 @@ vitest@^0.28.3:
     tinypool "^0.3.1"
     tinyspy "^1.0.2"
     vite "^3.0.0 || ^4.0.0"
-    vite-node "0.28.3"
+    vite-node "0.28.5"
     why-is-node-running "^2.2.2"
 
 vlq@^2.0.4:
