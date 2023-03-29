@@ -1532,7 +1532,7 @@ arweave-stream-tx@^1.1.0:
   dependencies:
     exponential-backoff "^3.1.0"
 
-arweave@=1.11.8, arweave@^1.10.13, arweave@^1.11.4:
+arweave@=1.11.8:
   version "1.11.8"
   resolved "https://registry.npmjs.org/arweave/-/arweave-1.11.8.tgz"
   integrity sha512-58ODeNPIC4OjaOCl2bXjKbOFGsiVZFs+DkQg3BvQGvFWNqw1zTJ4Jp01xGUz+GbdOaDyJcCC0g3l0HwdJfFPyw==
@@ -1544,10 +1544,10 @@ arweave@=1.11.8, arweave@^1.10.13, arweave@^1.11.4:
     bignumber.js "^9.0.2"
     util "^0.12.4"
 
-arweave@^1.12.4:
-  version "1.12.4"
-  resolved "https://registry.yarnpkg.com/arweave/-/arweave-1.12.4.tgz#08a4fcbda250c490150cb094ce57119eb1e46b3b"
-  integrity sha512-W5z7hb9/ZP2vy6BiYC+2obfGMhlhz/DaCkEXpkj/4hjaecWYUnvlUX5aCI2i0+lCrzbBUFbz+maDihUpBrdZpg==
+arweave@^1.10.13, arweave@^1.11.4, arweave@^1.13.5:
+  version "1.13.5"
+  resolved "https://registry.yarnpkg.com/arweave/-/arweave-1.13.5.tgz#0bd28aae9d0e9fc66df45217661b08f57658c090"
+  integrity sha512-bxXoxmQF1OVXw2QFjD9m29Oo+lwUSvb2mzli494BRFGCfSSTBpE5Fp9f65HmmGEUURCL4xS17J6wBjLm1efrig==
   dependencies:
     arconnect "^0.4.2"
     asn1.js "^5.4.1"
