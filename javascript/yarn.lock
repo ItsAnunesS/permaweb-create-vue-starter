@@ -1205,9 +1205,9 @@ arweave@=1.11.8:
     bignumber.js "^9.0.2"
     util "^0.12.4"
 
-arweave@^1.10.13, arweave@^1.11.4, arweave@^1.12.4:
-  version "1.12.4"
-  resolved "https://registry.npmjs.org/arweave/-/arweave-1.12.4.tgz"
+arweave@^1.10.13, arweave@^1.11.4, arweave@^1.13.7:
+  version "1.13.7"
+  resolved "https://registry.yarnpkg.com/arweave/-/arweave-1.13.7.tgz#cda8534c833baec372a7052c61f53b4e39a886d7"
   dependencies:
     arconnect "^0.4.2"
     asn1.js "^5.4.1"
